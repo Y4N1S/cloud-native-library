@@ -55,7 +55,7 @@ else:
 
   # deltable()
   # create_table()
-  # insert_row(("juljan", "http://juljan.com"))
+  insert_row(("juljan", "http://juljan.com"))
   see_all()
 
   # Cleanup
